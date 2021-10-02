@@ -1,14 +1,12 @@
 # Site settings
-title:          Yuta Nakamura (中村 優太)
+title:          ゆのノート
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
 url:            "https://europf.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         europf
 
 # Build settings
 markdown:       kramdown
