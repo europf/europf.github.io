@@ -1,11 +1,8 @@
 # Site settings
 title:          Yuta Nakamura (中村 優太)
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
+baseurl:        ""
 url:            "https://europf.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
