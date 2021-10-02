@@ -1,3 +1,8 @@
+---
+layout: default
+title: トップページ
+---
+
 # メモ
 - メモ
 
