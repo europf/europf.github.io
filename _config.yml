@@ -13,6 +13,12 @@ markdown:       kramdown
 include:
   - _pages
 
+kramdown:
+  # 数式はKaTeXでレンダリングする
+  math_engine: katex
+  # 数式で'が別文字に変換するのを防ぐための設定
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 # Assets
 sass:
   sass_dir:     _sass
