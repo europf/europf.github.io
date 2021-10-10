@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "アクチュアリー試験 数学 過去問感想・メモ"
+title:  "アクチュアリー試験 数学 過去問メモ (確率編)"
 tags: アクチュアリー試験
 excerpt_separator: <!--more--> 
 ---
