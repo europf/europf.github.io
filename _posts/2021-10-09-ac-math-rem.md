@@ -140,6 +140,8 @@ $\alpha = 1$ のときの分布をとくに 指数分布といって, $Ex(\beta)
 分布関数 $1 - (\beta / (x + \\beta))^\alpha$
 
 ## $t$ 分布 $t (n)$
+重要な性質: $X \sim \mathcal{N}(0, 1), Y \sim \chi^2(n)$ のとき $\frac{X}{\sqrt{Y/n}} \sim t(n)$.
+$n = 1$ で Cauchy分布, $n \to \infty$ で $\mathcal{N}(0, 1)$ に分布収束.
 - 密度関数: \frac{1}{\sqrt{n}B(n/2, 1/2)} (1 + \frac{x^2}{n})^{-\frac{n + 1}{2}}$. 覚える
 - 期待値: $0$.
 - 分散: $n/(n - 2)$
