@@ -50,9 +50,7 @@ excerpt_separator: <!--more-->
 - H4 1(1) 定義どおり計算.
 - H4 1(5) 定義どおり計算. ここでは $\alpha, \beta$ ともに未知と書いてあるので H3 1(2) にクレームが入ったのかもしれない.
     - 模範解がはしょり気味だったので, ちゃんとやる. $I$ を指示関数として,
-    \begin{equation}
-        L(x_1, \cdots, x_i) = \frac{1}{\alpha} I_{[\max x_i \leq \beta + 1/2 \alpha, \beta - 1/2 \alpha \leq \min x_i]}(x_1, \cdots, x_i).
-    \end{equation}
+    $$L(x_1, \cdots, x_i) = \frac{1}{\alpha} I_{[\max x_i \leq \beta + 1/2 \alpha, \beta - 1/2 \alpha \leq \min x_i]}(x_1, \cdots, x_i).$$
     である.
 - H4 2 対称性を使ってさぼる.
 - H5 1(1) 定義通りやる.
