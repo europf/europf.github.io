@@ -50,8 +50,8 @@ excerpt_separator: <!--more-->
 - H4 1(1) 定義どおり計算.
 - H4 1(5) 定義どおり計算. ここでは $\alpha, \beta$ ともに未知と書いてあるので H3 1(2) にクレームが入ったのかもしれない.
     - 模範解がはしょり気味だったので, ちゃんとやる. $I$ を指示関数として,
-    $L(x_1, \cdots, x_n) = \frac{1}{\alpha} I_{[\beta - 1/2 \alpha \leq \min x_i, \ \max x_i \leq \beta + 1/2 \alpha]}(x_1, \cdots, x_n)$
-    である. この表式より, $L$ を最大化するには $\alpha$ を (指示関数が非ゼロの範囲で) 最小化すればよい. $\beta$ は未知なので, $\alpha$ を大きくするために任意に動かせる. 結局, 領域 $\alpha \geq 2\max x_i - 2 \beta, \ \alpha \geq 2 \beta - 2\min x_i, \ \alpha > 0$ の中で $\alpha$ を最小化すればよくて, 絵をかけば $\hat{\alpha} = \max x_i - \min x_i, \hat{\beta} = (\max x_i + \min x_i)/2$ であることがわかる.
+    $L(x_1, \cdots, x_n) = \alpha^{-n} I_{[\beta - 1/2 \alpha \leq \min x_i, \ \max x_i \leq \beta + 1/2 \alpha]}(x_1, \cdots, x_n)$
+    である. この表式より, $L$ を最大化するには $\alpha$ を (指示関数が非ゼロの範囲で) 最小化すればよい. $\beta$ は未知なので, $\alpha$ を大きくするために任意に動かせる. 結局, ２次元領域 $\alpha \geq 2\max x_i - 2 \beta, \ \alpha \geq 2 \beta - 2\min x_i, \ \alpha > 0$ の中で $\alpha$ を最小化すればよくて, 絵をかけば $\hat{\alpha} = \max x_i - \min x_i, \hat{\beta} = (\max x_i + \min x_i)/2$ であることがわかる.
 - H4 2 対称性を使ってさぼる.
 - H5 1(1) 定義通りやる.
 - H5 1(4) $\hat{n} \sim 4.7$ を得るので前後の $n = 4, 5$ を調べる. 
@@ -65,4 +65,4 @@ excerpt_separator: <!--more-->
 ### 参考文献
 [1] 久保川達也, 現代数理統計学の基礎, 共立出版.
 
-[2] 竹村彰通, 現代数理統計学, 出版社忘れた.
+[2] 竹村彰通, 現代数理統計学, 学術図書出版社.
