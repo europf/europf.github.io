@@ -67,7 +67,7 @@ excerpt_separator: <!--more-->
     2. 
     \begin{aligned*}
         E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta)] &= E[E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta) \|T]] \\
-        &= E[E[( \hat{\theta} - \hat{\theta^{\ast}} ) \|T](\hat{\theta^{\ast}} - \theta)] \\
+        &= E[E[( \hat{\theta} - \hat{\theta^{\ast}} ) \| T] (\hat{\theta^{\ast}} - \theta) ] \\
         &= 0. \\
     \end{aligned*}
     なぜなら $E[(\hat{\theta} - \hat{\theta^{\ast}}) \|T] = \hat{\theta^{\ast}} - \hat{\theta^{\ast}} = 0$ だから.
