@@ -64,12 +64,7 @@ excerpt_separator: <!--more-->
 - H8 1(2) $w_1/w_2 = w$ とおく.
 - H8 3 自分の解答: 
     1. $\hat{\theta^{\ast}}$ の定義より, $E[\hat{\theta^{\ast}}] = E[E[\hat{\theta}\|T]] = E[\hat{\theta}] = \theta$.
-    2. 
-    \begin{aligned*}
-        E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta)] &= E[E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta) \|T]] \\
-        &= E[E[( \hat{\theta} - \hat{\theta^{\ast}} ) \| T] (\hat{\theta^{\ast}} - \theta) ] \\
-        &= 0. \\
-    \end{aligned*}
+    2. $E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta)] = E[E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta) \|T]] = E[E[( \hat{\theta} - \hat{\theta^{\ast}} ) \| T] (\hat{\theta^{\ast}} - \theta) ] = 0.$
     なぜなら $E[(\hat{\theta} - \hat{\theta^{\ast}}) \|T] = \hat{\theta^{\ast}} - \hat{\theta^{\ast}} = 0$ だから.
     3. 模範解通り.
 - H9 3 がんばって計算.
