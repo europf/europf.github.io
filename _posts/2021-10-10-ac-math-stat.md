@@ -56,13 +56,13 @@ excerpt_separator: <!--more-->
 - H5 1(1) 定義通りやる.
 - H5 1(4) $\hat{n} \sim 4.7$ を得るので前後の $n = 4, 5$ を調べる. 
 - H5 1(5) 定義通り計算.
-- H6 1(2) 定義通り計算.
+- H6 1(2) 定義通り計算. $E[\hat{\theta^{\ast}}] = E[E[\hat{\theta}|T]] = E[\hat{\theta}] = \theta$
 - H6 1(3) 定義通り計算. 幾何分布.
 - 🔵 H6 2 $S^2$ の分布を知りたいけど, 知識不足っぽいので後で戻ってくる.
 - H7 1(4) 定義通り計算.
 - H7 2 定義通り計算.
 - H8 1(2) $w_1/w_2 = w$ とおく.
-- H8 3 自分の解答: $E[\hat{\theta^{\ast}}] = E[E[\hat{\theta}|T]] = E[\hat{\theta}] = \theta$
+- H8 3 自分の解答: 
     1. $E[\hat{\theta^{\ast}}] = E[E[\hat{\theta}|T]] = E[\hat{\theta}] = \theta$.
     2. $E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta)] = E[E[(\hat{\theta} - \hat{\theta^{\ast}})(\hat{\theta^{\ast}} - \theta)|T]] = E[E[(\hat{\theta} - \hat{\theta^{\ast}})|T](\hat{\theta^{\ast}} - \theta)] = 0$. なぜなら $E[(\hat{\theta} - \hat{\theta^{\ast}})|T] = \hat{\theta^{\ast}} - \hat{\theta^{\ast}} = 0$ だから. 
     3. 模範解通り.
