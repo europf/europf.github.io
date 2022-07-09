@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
     - なんかここだけ行間が広い気がするので後で書く.
 
 ### 1.6 部分空間
-- 定理1.6.4最後: 系1.5.7 を $V = \langle y_j \mid j \in A \rangle$ として使う. $|A|$ が $i\#  \in I$ の1つの上界.
+- 定理1.6.4最後: 系1.5.7 を $V = \langle y_j \mid j \in A \rangle$ として使う.
 
 ## 第3章 自己準同形
 
