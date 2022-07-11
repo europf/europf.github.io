@@ -17,7 +17,7 @@ excerpt_separator: <!--more-->
 ### 1.4
 - 系 1.4.10
     - なんかここだけ行間が広い気がするので後で書く.
-- p. 23「$x_1, \ldots, x_n \in V$ が $V$ の基底である $\iff$ $V=Kx_1 \oplus \cdots \oplus Kx_n$ かつ $x_1, \ldots, x_n$ がどれも $0$ でない」について
+- p. 23「$x_1, \ldots, x_n \in V$ が $V$ の基底である iff $V=Kx_1 \oplus \cdots \oplus Kx_n$ かつ $x_1, \ldots, x_n$ がどれも $0$ でない」について
     - $(\implies):$ 前者の条件より $(b_1 x_1, \ldots, b_n x_n) \mapsto b_1 x_1 + \cdots + b_n x_n$ 可逆. 後者の条件より $(b_1, \ldots, b_n) \mapsto (b_1 x_1, \ldots, b_n x_n)$ 可逆. よって2つの合成 $(b_1, \ldots, b_n) \mapsto b_1 x_1 + \cdots + b_n x_n$ も可逆. (cf. prop. 1.2.3)
     - $(\impliedby):$ 仮定より $(b_1, \ldots, b_n) \mapsto b_1 x_1 + \cdots + b_n x_n$ 可逆. $x_i = 0$ なる $i$ があると上の可逆性に矛盾. よって $x_1, \ldots, x_n \neq 0$ で, $(b_1, \ldots, b_n) \mapsto (b_1 x_1, \ldots, b_n x_n)$ 可逆. よって合成 $(b_1 x_1, \ldots, b_n x_n) \mapsto b_1 x_1 + \cdots + b_n x_n$ も可逆つまり $V=Kx_1 + \cdots + Kx_n=Kx_1 \oplus \cdots \oplus Kx_n$.
 
