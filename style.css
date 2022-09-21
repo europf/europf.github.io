@@ -6,4 +6,11 @@ body {
 h2 {
     background: #ddf5ff;
     padding: 0.5em;
-  }
+}
+table td {
+	background: #ddf5ff;
+    margin: auto;
+}
+table tr:nth-child(odd) td {
+	background: #fff;
+}
