@@ -3,6 +3,7 @@ body {
     margin: 40px 40px;
 }
 
-#midashi {
-    background: #f0f8ff;
-}
+h2 {
+    background: #c2edff;
+    padding: 0.5em;
+  }
