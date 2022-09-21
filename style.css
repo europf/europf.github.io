@@ -1,9 +1,9 @@
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 5px 5px;
+    margin: 30px 30px;
 }
 
 #midashi {
-    padding: 5px;
+    padding: 10px;
     background: #f0f8ff;
-  }
+}
