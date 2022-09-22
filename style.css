@@ -11,7 +11,7 @@ table {
     margin: auto;
 }
 table td {
-	background: #fbfeff;
+	background: #ebfaff;
 }
 table tr:nth-child(odd) td {
 	background: #fff;
