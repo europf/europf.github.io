@@ -16,3 +16,7 @@ table td {
 table tr:nth-child(odd) td {
 	background: #fff;
 }
+dt {
+    margin: 15px;
+    font-weight: bold;
+}
