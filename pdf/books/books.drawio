@@ -1,0 +1,73 @@
+<mxfile host="65bd71144e">
+    <diagram id="ltYk77LbWSXxP-KGT6q9" name="ページ1">
+        <mxGraphModel dx="888" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="rudin: PMA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="rudin: RCA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Karatzas, Shreve: BM &amp;amp; SC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="200" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Revuz, Yor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="220" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="舟木" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="140" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="le gall: measure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="160" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="le gall: BM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="240" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Lee: Smooth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="60" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Tu: manifolds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="40" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Lee: Topological" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="100" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Lee: Riemannian manifolds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="160" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Tu: differential geometry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="140" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Bott, Tu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="200" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Cinlar" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="120" width="20" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Kallenberg" style="rounded=1;whiteSpace=wrap;html=1;horizontal=0;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="120" width="20" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Brezis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="280" width="240" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="analysis" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="100" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="geometry" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="470" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="algebra" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=#FF3333;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="240" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="lang" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="280" width="40" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="120" width="240" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
